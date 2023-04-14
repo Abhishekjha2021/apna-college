@@ -11,6 +11,7 @@ int main(){
         if(remainder==0){
             count=count+1;
         }
+        //ttbtbeb
     }
 
     if(count==2){
